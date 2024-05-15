@@ -53,40 +53,5 @@ STEP 5:Include Necessary parameters in each functions.
  <img width="958" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/31fecfb5-dd5b-4cf5-b96c-533e07069c77">
  <img width="939" alt="image" src="https://github.com/1808charitha/EXNO-6-DS/assets/132996838/dff34943-b0ea-4c1f-bb97-aad2831fab2f">
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Result:
  Thus, all the data visualization techniques of seaborn has been implemented.
